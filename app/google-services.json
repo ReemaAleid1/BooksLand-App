@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937022930679",
+    "project_id": "bookslandfirebase",
+    "storage_bucket": "bookslandfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937022930679:android:d50fcc110e339c0cca1df2",
+        "android_client_info": {
+          "package_name": "com.example.booksland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937022930679-khs9usviqne821evtdmfu5tfn5plkg5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKn7jv0lBeQM34tmqW-hBGgiMhIR_Osb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937022930679-khs9usviqne821evtdmfu5tfn5plkg5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
